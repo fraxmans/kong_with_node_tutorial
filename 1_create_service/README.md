@@ -1,0 +1,2 @@
+# Create Service
+如果你是不小心迷路進來這裡，可以搭配[這篇文章](https://a09730040.medium.com/%E5%88%A9%E7%94%A8node-express%E8%88%87kong-api-gateway%E5%AF%A6%E5%81%9Amicroservice%E8%88%87api-gateway%E4%B8%B2%E6%8E%A5-e21e1bc2657)了解我在做什麼。
